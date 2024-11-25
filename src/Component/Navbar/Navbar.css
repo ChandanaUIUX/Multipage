@@ -1,0 +1,7 @@
+#navgradient {
+    background: rgb(145,86,51);
+background: linear-gradient(90deg, #915633 14%, #e0671e 49%, rgba(145,86,51,1) 92%);
+}
+#nav-icons io5{
+    background-color: #915633 ;
+}

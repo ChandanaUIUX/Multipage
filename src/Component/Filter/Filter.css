@@ -1,0 +1,5 @@
+.scroll {
+    height: 700px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
